@@ -4,7 +4,7 @@ This project is a **UI recreation of the Cursor website**, built using **HTML an
 The goal of this project is to closely replicate the visual design, layout, typography, and interactions of the original Cursor landing page for learning and practice purposes.
 
 ---
-![Cursor UI Clone Preview](./assets/preview.png)
+![Cursor UI Clone Preview](./Assets/Preview.png)
 
 ---
 
